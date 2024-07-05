@@ -8,7 +8,7 @@ Suppose a cargo delivery vehicle has `n` packages to deliver and therefore `n` s
 
 ## Setting Up
 
-> This algorithm uses genetic algorithms. If you don't know about it, please check the README.md at my [Genetic-Algorithms](https://github.com/muhammetsanci/Genetic-Algorithms) repository.
+> This algorithm uses genetic algorithms. 
 
 - **Genes** represents stops.
 - **Chromosome** contains sequence of stops.
